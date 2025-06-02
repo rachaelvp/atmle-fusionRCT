@@ -1,0 +1,8 @@
+*.Rproj*
+.Rhistory
+*.RData
+.Ruserdata
+*.rds
+*.Rdata
+.DS_Store
+eurocim_berk_dat/*
