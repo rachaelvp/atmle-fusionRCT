@@ -6,3 +6,4 @@
 *.Rdata
 .DS_Store
 eurocim_berk_dat/*
+.Rproj.user
